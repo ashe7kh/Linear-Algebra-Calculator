@@ -7,4 +7,4 @@ Has a basic UI that can store user created data, as in you can create matrices i
 
 # Documentation
 
-The code is pretty well documented, I didn't leave too much out since I had written this for the then new AP computer science principles exam since I didn't care to learn the other one.
+The code is pretty well documented, I didn't leave too much out since I had written this for the then new AP computer science principles exam.
