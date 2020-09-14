@@ -3,7 +3,7 @@ A linear algebra program written in python 2.7 that I made in High School.
 
 # Functionality
 
-Has a basic UI that can store user created data, as in you can create matrices in the program itself like you would with a regular calculator. The program can do most basic matrix calculations, it can do the transpose, take the determinant, add, multiply and find the inverse of the matrix. It was written in High School, so by in large the code isn't very optimized; I had no real working knowledge numerical methods outside of LU decomposition, but outside of that no working knowledge on how to implement it at the time, either that or I was just lazy.
+Has a basic UI that can store user created data, as in you can create matrices in the program itself like you would with a regular calculator. The program can do most basic matrix calculations, it can do the transpose, take the determinant, add, multiply and find the inverse of the matrix. It was written in High School, so by in large the code isn't very optimized; I had no real working knowledge numerical methods outside of LU decomposition, and even for that, I had no working knowledge on how to implement it at the time, either that or I was just lazy.
 
 # Documentation
 
